@@ -1,0 +1,23 @@
+{
+  "brand_tagline": "Cabinet de Kinetoterapie & Recuperare Medicală",
+  "city": "Brașov",
+  "site_url": "https://line-up-bv.vercel.app/",
+  "existing_website": "",
+  "has_existing_website": "nu",
+  "phone_display": "0757 082 086",
+  "email": "contact@lineup-bv.ro",
+  "address": "Str. De Mijloc 85, Brașov",
+  "instagram_url": "#",
+  "facebook_url": "https://www.facebook.com/LiNEUPBV/",
+  "linkedin_url": "#",
+  "copyright_year": "2026",
+  "team_intro": "Cabinet de kinetoterapie, masaj terapeutic și recuperare medicală în Brașov. Specialiști în kinetoterapie, reflexoterapie și recuperare pre/postnatală — planuri personalizate pentru fiecare pacient.",
+  "schedule_html": "<dl><dt>Luni – Vineri</dt><dd>9:00 – 19:00</dd><dt>Sâmbătă</dt><dd>Doar cu programare</dd><dt>Duminică</dt><dd>Închis</dd></dl>",
+  "brand_name": "Line UP",
+  "logo_path": "img/brand-logo.png",
+  "preview_image_path": "img/brand-preview.png",
+  "phone_link": "0757082086",
+  "whatsapp_number": "0757082086",
+  "map_embed_url": "https://www.google.com/maps?q=Str.%20De%20Mijloc%2085%2C%20Bra%C8%99ov&output=embed",
+  "og_image_url": "https://line-up-bv.vercel.app/img/brand-preview.png"
+}
